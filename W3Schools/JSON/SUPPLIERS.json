@@ -1,0 +1,293 @@
+{
+"SUPPLIERS": [
+	{
+		"SUPPLIERID" : 1,
+		"SUPPLIERNAME" : "Exotic Liquid",
+		"CONTACTNAME" : "Charlotte Cooper",
+		"ADDRESS" : "49 Gilbert St.",
+		"CITY" : "Londona",
+		"POSTALCODE" : "EC1 4SD",
+		"COUNTRY" : "UK",
+		"PHONE" : "(171) 555-2222"
+	},
+	{
+		"SUPPLIERID" : 2,
+		"SUPPLIERNAME" : "New Orleans Cajun Delights",
+		"CONTACTNAME" : "Shelley Burke",
+		"ADDRESS" : "P.O. Box 78934",
+		"CITY" : "New Orleans",
+		"POSTALCODE" : "70117",
+		"COUNTRY" : "USA",
+		"PHONE" : "(100) 555-4822"
+	},
+	{
+		"SUPPLIERID" : 3,
+		"SUPPLIERNAME" : "Grandma Kelly's Homestead",
+		"CONTACTNAME" : "Regina Murphy",
+		"ADDRESS" : "707 Oxford Rd.",
+		"CITY" : "Ann Arbor",
+		"POSTALCODE" : "48104",
+		"COUNTRY" : "USA",
+		"PHONE" : "(313) 555-5735"
+	},
+	{
+		"SUPPLIERID" : 4,
+		"SUPPLIERNAME" : "Tokyo Traders",
+		"CONTACTNAME" : "Yoshi Nagase",
+		"ADDRESS" : "9-8 Sekimai Musashino-shi",
+		"CITY" : "Tokyo",
+		"POSTALCODE" : "100",
+		"COUNTRY" : "Japan",
+		"PHONE" : "(03) 3555-5011"
+	},
+	{
+		"SUPPLIERID" : 5,
+		"SUPPLIERNAME" : "Cooperativa de Quesos 'Las Cabras'",
+		"CONTACTNAME" : "Antonio del Valle Saavedra",
+		"ADDRESS" : "Calle del Rosal 4",
+		"CITY" : "Oviedo",
+		"POSTALCODE" : "33007",
+		"COUNTRY" : "Spain",
+		"PHONE" : "(98) 598 76 54"
+	},
+	{
+		"SUPPLIERID" : 6,
+		"SUPPLIERNAME" : "Mayumi's",
+		"CONTACTNAME" : "Mayumi Ohno",
+		"ADDRESS" : "92 Setsuko Chuo-ku",
+		"CITY" : "Osaka",
+		"POSTALCODE" : "545",
+		"COUNTRY" : "Japan",
+		"PHONE" : "(06) 431-7877"
+	},
+	{
+		"SUPPLIERID" : 7,
+		"SUPPLIERNAME" : "Pavlova, Ltd.",
+		"CONTACTNAME" : "Ian Devling",
+		"ADDRESS" : "74 Rose St. Moonie Ponds",
+		"CITY" : "Melbourne",
+		"POSTALCODE" : "3058",
+		"COUNTRY" : "Australia",
+		"PHONE" : "(03) 444-2343"
+	},
+	{
+		"SUPPLIERID" : 8,
+		"SUPPLIERNAME" : "Specialty Biscuits, Ltd.",
+		"CONTACTNAME" : "Peter Wilson",
+		"ADDRESS" : "29 King's Way",
+		"CITY" : "Manchester",
+		"POSTALCODE" : "M14 GSD",
+		"COUNTRY" : "UK",
+		"PHONE" : "(161) 555-4448"
+	},
+	{
+		"SUPPLIERID" : 9,
+		"SUPPLIERNAME" : "PB Knäckebröd AB",
+		"CONTACTNAME" : "Lars Peterson",
+		"ADDRESS" : "Kaloadagatan 13",
+		"CITY" : "Göteborg",
+		"POSTALCODE" : "S-345 67",
+		"COUNTRY" : "Sweden",
+		"PHONE" : "031-987 65 43"
+	},
+	{
+		"SUPPLIERID" : 10,
+		"SUPPLIERNAME" : "Refrescos Americanas LTDA",
+		"CONTACTNAME" : "Carlos Diaz",
+		"ADDRESS" : "Av. das Americanas 12.890",
+		"CITY" : "São Paulo",
+		"POSTALCODE" : "5442",
+		"COUNTRY" : "Brazil",
+		"PHONE" : "(11) 555 4640"
+	},
+	{
+		"SUPPLIERID" : 11,
+		"SUPPLIERNAME" : "Heli Süßwaren GmbH & Co. KG",
+		"CONTACTNAME" : "Petra Winkler",
+		"ADDRESS" : "Tiergartenstraße 5",
+		"CITY" : "Berlin",
+		"POSTALCODE" : "10785",
+		"COUNTRY" : "Germany",
+		"PHONE" : "(010) 9984510"
+	},
+	{
+		"SUPPLIERID" : 12,
+		"SUPPLIERNAME" : "Plutzer Lebensmittelgroßmärkte AG",
+		"CONTACTNAME" : "Martin Bein",
+		"ADDRESS" : "Bogenallee 51",
+		"CITY" : "Frankfurt",
+		"POSTALCODE" : "60439",
+		"COUNTRY" : "Germany",
+		"PHONE" : "(069) 992755"
+	},
+	{
+		"SUPPLIERID" : 13,
+		"SUPPLIERNAME" : "Nord-Ost-Fisch Handelsgesellschaft mbH",
+		"CONTACTNAME" : "Sven Petersen",
+		"ADDRESS" : "Frahmredder 112a",
+		"CITY" : "Cuxhaven",
+		"POSTALCODE" : "27478",
+		"COUNTRY" : "Germany",
+		"PHONE" : "(04721) 8713"
+	},
+	{
+		"SUPPLIERID" : 14,
+		"SUPPLIERNAME" : "Formaggi Fortini s.r.l.",
+		"CONTACTNAME" : "Elio Rossi",
+		"ADDRESS" : "Viale Dante, 75",
+		"CITY" : "Ravenna",
+		"POSTALCODE" : "48100",
+		"COUNTRY" : "Italy",
+		"PHONE" : "(0544) 60323"
+	},
+	{
+		"SUPPLIERID" : 15,
+		"SUPPLIERNAME" : "Norske Meierier",
+		"CONTACTNAME" : "Beate Vileid",
+		"ADDRESS" : "Hatlevegen 5",
+		"CITY" : "Sandvika",
+		"POSTALCODE" : "1320",
+		"COUNTRY" : "Norway",
+		"PHONE" : "(0)2-953010"
+	},
+	{
+		"SUPPLIERID" : 16,
+		"SUPPLIERNAME" : "Bigfoot Breweries",
+		"CONTACTNAME" : "Cheryl Saylor",
+		"ADDRESS" : "3400 - 8th Avenue Suite 210",
+		"CITY" : "Bend",
+		"POSTALCODE" : "97101",
+		"COUNTRY" : "USA",
+		"PHONE" : "(503) 555-9931"
+	},
+	{
+		"SUPPLIERID" : 17,
+		"SUPPLIERNAME" : "Svensk Sjöföda AB",
+		"CONTACTNAME" : "Michael Björn",
+		"ADDRESS" : "Brovallavägen 231",
+		"CITY" : "Stockholm",
+		"POSTALCODE" : "S-123 45",
+		"COUNTRY" : "Sweden",
+		"PHONE" : "08-123 45 67"
+	},
+	{
+		"SUPPLIERID" : 18,
+		"SUPPLIERNAME" : "Aux joyeux ecclésiastiques",
+		"CONTACTNAME" : "Guylène Nodier",
+		"ADDRESS" : "203, Rue des Francs-Bourgeois",
+		"CITY" : "Paris",
+		"POSTALCODE" : "75004",
+		"COUNTRY" : "France",
+		"PHONE" : "(1) 03.83.00.68"
+	},
+	{
+		"SUPPLIERID" : 19,
+		"SUPPLIERNAME" : "New England Seafood Cannery",
+		"CONTACTNAME" : "Robb Merchant",
+		"ADDRESS" : "Order Processing Dept. 2100 Paul Revere Blvd.",
+		"CITY" : "Boston",
+		"POSTALCODE" : "02134",
+		"COUNTRY" : "USA",
+		"PHONE" : "(617) 555-3267"
+	},
+	{
+		"SUPPLIERID" : 20,
+		"SUPPLIERNAME" : "Leka Trading",
+		"CONTACTNAME" : "Chandra Leka",
+		"ADDRESS" : "471 Serangoon Loop, Suite #402",
+		"CITY" : "Singapore",
+		"POSTALCODE" : "0512",
+		"COUNTRY" : "Singapore",
+		"PHONE" : "555-8787"
+	},
+	{
+		"SUPPLIERID" : 21,
+		"SUPPLIERNAME" : "Lyngbysild",
+		"CONTACTNAME" : "Niels Petersen",
+		"ADDRESS" : "Lyngbysild Fiskebakken 10",
+		"CITY" : "Lyngby",
+		"POSTALCODE" : "2800",
+		"COUNTRY" : "Denmark",
+		"PHONE" : "43844108"
+	},
+	{
+		"SUPPLIERID" : 22,
+		"SUPPLIERNAME" : "Zaanse Snoepfabriek",
+		"CONTACTNAME" : "Dirk Luchte",
+		"ADDRESS" : "Verkoop Rijnweg 22",
+		"CITY" : "Zaandam",
+		"POSTALCODE" : "9999 ZZ",
+		"COUNTRY" : "Netherlands",
+		"PHONE" : "(12345) 1212"
+	},
+	{
+		"SUPPLIERID" : 23,
+		"SUPPLIERNAME" : "Karkki Oy",
+		"CONTACTNAME" : "Anne Heikkonen",
+		"ADDRESS" : "Valtakatu 12",
+		"CITY" : "Lappeenranta",
+		"POSTALCODE" : "53120",
+		"COUNTRY" : "Finland",
+		"PHONE" : "(953) 10956"
+	},
+	{
+		"SUPPLIERID" : 24,
+		"SUPPLIERNAME" : "G'day, Mate",
+		"CONTACTNAME" : "Wendy Mackenzie",
+		"ADDRESS" : "170 Prince Edward Parade Hunter's Hill",
+		"CITY" : "Sydney",
+		"POSTALCODE" : "2042",
+		"COUNTRY" : "Australia",
+		"PHONE" : "(02) 555-5914"
+	},
+	{
+		"SUPPLIERID" : 25,
+		"SUPPLIERNAME" : "Ma Maison",
+		"CONTACTNAME" : "Jean-Guy Lauzon",
+		"ADDRESS" : "2960 Rue St. Laurent",
+		"CITY" : "Montréal",
+		"POSTALCODE" : "H1J 1C3",
+		"COUNTRY" : "Canada",
+		"PHONE" : "(514) 555-9022"
+	},
+	{
+		"SUPPLIERID" : 26,
+		"SUPPLIERNAME" : "Pasta Buttini s.r.l.",
+		"CONTACTNAME" : "Giovanni Giudici",
+		"ADDRESS" : "Via dei Gelsomini, 153",
+		"CITY" : "Salerno",
+		"POSTALCODE" : "84100",
+		"COUNTRY" : "Italy",
+		"PHONE" : "(089) 6547665"
+	},
+	{
+		"SUPPLIERID" : 27,
+		"SUPPLIERNAME" : "Escargots Nouveaux",
+		"CONTACTNAME" : "Marie Delamare",
+		"ADDRESS" : "22, rue H. Voiron",
+		"CITY" : "Montceau",
+		"POSTALCODE" : "71300",
+		"COUNTRY" : "France",
+		"PHONE" : "85.57.00.07"
+	},
+	{
+		"SUPPLIERID" : 28,
+		"SUPPLIERNAME" : "Gai pâturage",
+		"CONTACTNAME" : "Eliane Noz",
+		"ADDRESS" : "Bat. B 3, rue des Alpes",
+		"CITY" : "Annecy",
+		"POSTALCODE" : "74000",
+		"COUNTRY" : "France",
+		"PHONE" : "38.76.98.06"
+	},
+	{
+		"SUPPLIERID" : 29,
+		"SUPPLIERNAME" : "Forêts d'érables",
+		"CONTACTNAME" : "Chantal Goulet",
+		"ADDRESS" : "148 rue Chasseur",
+		"CITY" : "Ste-Hyacinthe",
+		"POSTALCODE" : "J2S 7S8",
+		"COUNTRY" : "Canada",
+		"PHONE" : "(514) 555-2955"
+	}
+]}
