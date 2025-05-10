@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 
-namespace FirebirdTODO;
+namespace Superserver;
 
 public class TodoContext : DbContext
 {

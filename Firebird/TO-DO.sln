@@ -2,7 +2,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.13.35931.197
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirebirdTODO", "FirebirdTODO.csproj", "{4913CF22-8788-4A0F-BBF0-E838592FF03C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Superserver", "Superserver.csproj", "{4913CF22-8788-4A0F-BBF0-E838592FF03C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

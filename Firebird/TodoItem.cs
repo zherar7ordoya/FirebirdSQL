@@ -1,4 +1,4 @@
-﻿namespace FirebirdTODO;
+﻿namespace Superserver;
 
 public class TodoItem
 {

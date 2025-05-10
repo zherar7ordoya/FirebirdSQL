@@ -1,9 +1,9 @@
-﻿using FirebirdTODO;
+﻿using Superserver;
 
 using var db = new TodoContext();
 db.Database.EnsureCreated();
 
-db.Tareas.Add(new TodoItem { Titulo = "Probar Firebird embebido" });
+db.Tareas.Add(new TodoItem { Titulo = "Probar Firebird" });
 db.SaveChanges();
 
 var tareas = db.Tareas.ToList();
