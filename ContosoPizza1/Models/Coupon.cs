@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-
-namespace ContosoPizza.Models;
+﻿namespace ContosoPizza.Models;
 
 public partial class Coupon
 {
