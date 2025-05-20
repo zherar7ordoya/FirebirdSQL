@@ -1,0 +1,21 @@
+﻿@* The @page directive specifies that this file is a Razor page. *@
+@page
+
+@*
+The @model directive specifies the model type for the page (in this case,
+IndexModel, which is defined in Pages/Index.cshtml.cs).
+*@
+@model IndexModel
+
+@{
+    // C# code is enclosed in @{ } blocks.
+    ViewData["Title"] = "The Home for Pizza Lovers";
+    TimeSpan timeInBusiness = DateTime.Now - new DateTime(2018, 8, 14);
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome to Contoso Pizza</h1>
+
+    <!-- The "arroba" character is used to switch from HTML to Razor Syntax. -->
+    <p class="lead">The best pizza in town for @Convert.ToInt32(timeInBusiness.TotalDays) days!</p>
+</div>
