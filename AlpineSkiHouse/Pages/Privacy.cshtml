@@ -1,0 +1,26 @@
+﻿@*
+    La directiva "page" le dice a ASP.NET que procese este archivo como una
+    página de Razor.
+*@
+@page
+
+@*
+    La directiva "model" le dice a ASP.NET que enlace esta página de Razor con
+    una clase de C# llamada PrivacyModel.
+*@
+@model PrivacyModel
+
+@*
+    Bloque de código de Razor: se ejecuta pero no se representa.
+*@
+@{
+    ViewData["Title"] = "Privacy Policy";
+}
+
+@*
+    Para representar el resultado de una instrucción de código, se usa @ delante
+    de una expresión de C#.
+*@
+<h1>@ViewData["Title"]</h1>
+
+<p>Welcome to the Alpine Ski House!</p>
